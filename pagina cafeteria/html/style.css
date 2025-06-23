@@ -1,0 +1,48 @@
+#inicio
+
+{
+    
+background-image: none;
+background-color: burlywood;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+border:1px solid black
+;
+}
+
+h2{
+    color:black;
+    text-align: center;
+    font-family: comic sans ms;
+    font-size: 30px;
+    text-decoration: underline;
+
+}
+
+p
+{
+    color: black;
+    font-family: comic sans ms;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+
+#menu
+
+h2
+{
+    color: black;
+    font-family: comic sans ms;
+    font-size: 30px;
+}
+
+ul
+{
+    list-style-type: circle;
+    color: black;
+    font-family: calibri;
+    font-size: 18px;
+    text-align: left;
+}
